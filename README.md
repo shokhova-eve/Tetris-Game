@@ -1,17 +1,11 @@
 # Tetris Game
-The game of Tetris. Made with pygame.
+The game of Tetris. Made with pygame by TechwithTim
 
-You can view the video tutorials on how to create this game here: https://www.youtube.com/watch?v=uoR4ilCWwKA&t=3s
+# Ideas that I want to try out on the base of this repo 
+1) Make pvp mode with input from one keyboard (WASD and Arrows)
+2) Make "puzzle mode" (place as many shapes as possible below the line) for pvp
+3) Change fonts, colors and make grid bigger
+4) Add to main menu difficulty picker, where on easy the speed of shapes is less and the probability of flat lines is bigger
+5) Track the highest achieved scores
 
-# 💻 Launch Your Software Development Career Today!  
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
-
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
-
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
